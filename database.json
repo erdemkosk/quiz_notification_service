@@ -1,0 +1,21 @@
+{
+    "membersAlreadySended": {
+        "5ec28e2ae47cce0017b0b65d": {
+            "_id": "5ec28e2ae47cce0017b0b65d",
+            "notifications": [
+                "ExponentPushToken[-IBc6ZKMC2v7AgVkHGnaVh]",
+                "ExponentPushToken[zI-dN6LIHzb7v_Pn5PCZyK]",
+                "ExponentPushToken[NV8rftO3gtMtgQo9FZKZAL]"
+            ],
+            "nameSurname": "Mustafa Erdem Köşk"
+        },
+        "5f6cdf5e6f82ad0017c941bd": {
+            "_id": "5f6cdf5e6f82ad0017c941bd",
+            "notifications": [
+                "ExponentPushToken[5neUmAHXGOor4TezGcWNTX]",
+                "ExponentPushToken[p8O7C0GXpJuRmLJSPUGEbB]"
+            ],
+            "nameSurname": "Övgüm Kahraman"
+        }
+    }
+}
